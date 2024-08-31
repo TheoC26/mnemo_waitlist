@@ -38,7 +38,7 @@ const About = () => {
       </div>
 
       {/* about page */}
-      <section className=" max-w-5xl mx-auto">
+      <section className=" max-w-5xl mx-auto px-6">
         <h1 className="text-3xl font-bold mb-10">About us</h1>
         <p className="text-lg ">
           We are a team of developers who are passionate about creating
