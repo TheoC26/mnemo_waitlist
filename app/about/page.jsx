@@ -39,8 +39,8 @@ const About = () => {
 
       {/* about page */}
       <section className=" max-w-5xl mx-auto px-6">
-        <h1 className="text-3xl font-bold mb-10">About us</h1>
-        <p className="text-lg ">
+        <h1 className="text-3xl font-bold mb-5">About us</h1>
+        <p className="text-lg mb-16">
           Mnemo was created to rekindle memories and reconnect hearts.
           Co-founded by Theodore Chan and Lucas Choe, Mnemo was inspired by
           their shared experiences with grandparents facing the effects of aging
@@ -57,8 +57,8 @@ const About = () => {
           impact on the lives of seniors, individuals with memory loss, and
           their families and caregivers.
         </p>
-        <h1 className="text-3xl font-bold mb-10">What is Mnemo?</h1>
-        <p className="text-lg ">
+        <h1 className="text-3xl font-bold mb-5">What is Mnemo?</h1>
+        <p className="text-lg mb-16">
           Mnemo is a mobile app designed to strengthen emotional connections for
           individuals with dementia and their loved ones through reminiscence
           therapy. By offering features such as memory sharing, personalized
@@ -67,8 +67,8 @@ const About = () => {
           who matter most. It also provides support for family members and
           caregivers, creating a meaningful experience for all involved.
         </p>
-        <h1 className="text-3xl font-bold mb-10">How does Mnemo work?</h1>
-        <p className="text-lg ">
+        <h1 className="text-3xl font-bold mb-5">How does Mnemo work?</h1>
+        <p className="text-lg mb-16">
           Mnemo works by facilitating virtual connections and short, meaningful
           interactions. Through features like memory sharing, users can quickly
           send and receive photos, videos, and voice notes, helping to
@@ -82,8 +82,8 @@ const About = () => {
           approaches, Mnemo enhances both emotional connectivity and cognitive
           support.
         </p>
-        <h1 className="text-3xl font-bold mb-10">Behind Mnemo</h1>
-        <p className="text-lg ">
+        <h1 className="text-3xl font-bold mb-5">Behind Mnemo</h1>
+        <p className="text-lg mb-16">
           Mnemo was co-founded by high school entrepreneurs Theodore Chan
           (technical founder) and Lucas Choe (non-technical founder), who are
           both passionate about improving elderly and dementia care. They strive
