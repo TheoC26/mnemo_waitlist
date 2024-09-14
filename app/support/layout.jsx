@@ -1,7 +1,7 @@
 import React from "react";
 
 export const metadata = {
-  title: "Mnemo - Support",
+  title: "Mnemo - About",
   description: "About Mnemo",
 };
 
