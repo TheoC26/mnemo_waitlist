@@ -40,8 +40,17 @@ const Support = () => {
       <section className=" max-w-5xl mx-auto px-6">
         <h1 className="text-3xl font-bold mb-5">Support</h1>
         <p className="text-lg mb-16">
-          If you have any questions or need help, please contact us at mnemorememberapp@gmail.com
+          If you have any questions or need help, please contact us at
+          mnemorememberapp@gmail.com
         </p>
+      </section>
+      <section className=" max-w-5xl mx-auto px-6 bg-gray-200 py-6 rounded-2xl">
+        <h1 className="text-3xl font-bold mb-5">Digital Manual</h1>
+        <Link
+          className="text-lg mb-16 rounded-2xl"
+          href={"/Mnemo Tutorial.pdf"}
+        >Click here to view the digital manual. 🔗
+        </Link>
       </section>
       <FAQs faqs={faqs} />
     </main>
