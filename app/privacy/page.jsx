@@ -125,10 +125,10 @@ const Privacy = () => {
             <strong>Data Deletion:</strong> You may request that we delete your
             personal information by contacting us at{" "}
             <a
-              href="mailto:theo.htf.chan@gmail.com"
+              href="mailto:mnemorememberapp@gmail.com"
               class="text-blue-600 hover:underline"
             >
-              theo.htf.chan@gmail.com
+              mnemorememberapp@gmail.com
             </a>
             . Please note that certain information may be retained for legal or
             legitimate business purposes.
@@ -163,6 +163,22 @@ const Privacy = () => {
           reasons. We will notify you of any significant changes by posting the
           updated policy on our website and indicating the date of the latest
           revision.
+        </p>
+        <h2 class="text-2xl font-semibold text-gray-900 mb-4">8. Contact Us</h2>
+        <p class="mb-8">
+          If you have any questions or concerns about this Privacy Policy or our
+          practices, please contact us at:
+        </p>
+        <p class="mb-4">
+          <strong>Mnemo</strong>
+          <br />
+          Email:{" "}
+          <a
+            href="mailto:mnemorememberapp@gmail.com"
+            class="text-blue-600 hover:underline"
+          >
+            mnemorememberapp@gmail.com
+          </a>
         </p>
       </div>
     </body>
