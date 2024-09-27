@@ -24,8 +24,8 @@ export default function Home() {
                       <span className="block text-black">Mnemo</span>
                     </h1>
                     <p className="mt-3 text-base text-gray-400 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                      Our App is launching launch soon. Join the waitlist to try
-                      the beta before it's publicly available.
+                      Revive memories, Reunite Hearts. Join our mailing list to
+                      receive updates about our product.
                     </p>
                     <div className="mt-10 sm:mt-12">
                       <form
@@ -62,11 +62,20 @@ export default function Home() {
                               type="submit"
                               className="block w-full rounded-md bg-[#a796cc] py-3 px-4 font-medium text-white transition-all shadow hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-offset-2 focus:ring-offset-gray-900"
                             >
-                              Join Waitlist
+                              Join
                             </button>
                           </div>
                         </div>
                       </form>
+                    </div>
+                    {/* button for apple store */}
+                    <div className="mt-3">
+                      <a
+                        href="https://apps.apple.com/us/app/mnemo-remember/id6680171876"
+                        className="block w-full rounded-md bg-[#a796cc] py-3 px-4 font-medium text-white transition-all shadow hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-blue-300 focus:ring-offset-2 focus:ring-offset-gray-900"
+                      >
+                        Download on the App Store
+                      </a>
                     </div>
                   </div>
                 </div>
